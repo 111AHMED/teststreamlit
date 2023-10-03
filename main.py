@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 # Title of the app
 st.title("Hello Title")
 
